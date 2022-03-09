@@ -22,6 +22,7 @@ In response to the increasing demand for time-frequency aggregation, synchronous
 ## Contribution
 
 [1] Python-based time-frequency analysis method (excluding CWT).
+
 [2] Synchronous squeezing(Sq) and synchronous extraction(SET) based on Python.
 
 ---
