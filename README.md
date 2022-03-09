@@ -9,12 +9,11 @@
 It includes Short Time Fourier Transform (STFT), S-transform (ST), Wigner-Ville 
 distribution(WVD), and Continuous Wavelet Transform (CWT).
 
-
 ![](TFAfigure/STFT.png) 
-![](TFAfigure/WVD.png) 
 
 
 In response to the increasing demand for time-frequency aggregation, synchronous squeezing(Sq) and synchronous extraction(SET) have been added to the toolbox for SqSFTF and SEO-S.
+
 ![](TFAfigure/sqSTFT.png) 
 ![](TFAfigure/SEO-S.png) 
 
