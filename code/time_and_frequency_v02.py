@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 28 11:52:11 2020
 
-@author: 33088
+@author: Green_yuan
 """
 
 import numpy as np
@@ -896,6 +896,7 @@ rx=Renyi(z,t)
 
 
 #这里提供了一个WVD测试函数的用例
+#交叉项方面也很好的被表现了出来，因此对于WVD来说进行交叉项的抑制的算法也是同样可以直接进行的
 '''
 t=np.linspace(0,3,1024);
 t=t.reshape(t.size,1);
